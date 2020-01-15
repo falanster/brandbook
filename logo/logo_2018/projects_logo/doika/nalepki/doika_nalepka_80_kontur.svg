@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="79.806786mm"
+   height="80mm"
+   viewBox="0 0 282.77995 283.46457"
+   id="svg4791"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="doika_nalepka_80_kontur.svg">
+  <defs
+     id="defs4793" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="729.24711"
+     inkscape:cy="161.73229"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4796">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(838.53283,-410.62991)">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.72806513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -729.78155,627.30786 c 0,0 1.8033,9.03153 1.8813,34.38884 0.052,17.09492 11.2363,40.03602 38.2733,29.28121 27.0369,-10.75478 9.0016,-33.76374 2.3873,-78.96695 26.8818,24.23166 17.3616,32.65248 34.8406,49.2364 17.4787,16.58393 58.6466,-7.57067 37.3175,-36.75372 -21.3293,-29.18305 -22.2935,-21.31503 -35.6749,-43.8313 18.8556,3.34594 22.398,8.56658 41.2166,19.30119 18.8562,14.04715 54.7107,-5.9137 38.0364,-35.95754 -10.0856,-18.17253 -32.5594,-14.92078 -54.9273,-28.31835 10.5798,-3.51079 13.262,0.42379 41.1338,-1.55489 48.1066,-3.93915 27.7129,-55.06632 2.962,-52.45525 -24.7503,2.61119 -39.4232,7.67951 -55.4033,8.73328 -28.7514,-105.22953 -147.29241,-93.80003 -184.33291,-35.54633 -23.0335,36.22456 -22.36,92.3172 8.6811,128.38954 3.9715,4.61509 -4.4838,8.16152 -0.659,13.1171 14.3645,18.61058 51.5107,33.10296 84.26751,30.93677 z"
+       id="path2989-3-23-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cszczzccscczcsssc" />
+  </g>
+</svg>

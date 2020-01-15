@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.999996mm"
+   height="54.961315mm"
+   viewBox="0 0 194.88189 194.74482"
+   id="svg4185"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="doika_nalepka_55_2_kontur.svg"
+   inkscape:export-filename="/home/jedi/Dropbox/falanster/design/logo/logo_2018/projects_logo/doika/nalepki/doika_nalepka_55_2.png"
+   inkscape:export-xdpi="300.18182"
+   inkscape:export-ydpi="300.18182">
+  <defs
+     id="defs4187" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="113.00864"
+     inkscape:cy="106.1066"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4190">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1313.7384,28.193132)">
+    <path
+       style="fill:#ffffff;stroke:#333333;stroke-width:0.50487638;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1239.8969,119.33795 c 0,0 1.6108,7.1635 1.6649,24.74751 0.036,11.85447 7.7918,27.76295 26.5405,20.30504 18.7488,-7.4579 6.2422,-23.41345 1.6555,-54.7596 18.6412,16.80344 12.0394,22.64285 24.1602,34.14296 12.1206,11.50012 40.6684,-5.24987 25.8778,-25.48685 -14.7908,-20.236969 -15.4594,-14.7809 -24.7387,-30.394788 13.0754,2.320237 15.5319,5.940486 28.5816,13.384388 13.0758,9.741 37.9391,-4.100843 26.3763,-24.93473 -6.9939,-12.601727 -22.5783,-10.346806 -38.0893,-19.637348 7.3366,-2.434553 9.1965,0.293884 28.5243,-1.078236 33.3595,-2.731597 19.2174,-38.185715 2.0539,-36.375066 -17.1631,1.810727 -27.338,5.325351 -38.4194,6.056089 -19.9376,-72.971367 -106.9832,-62.248687 -129.0864,-19.7864336 -13.4509,25.8403726 -10.3114,55.6242426 2.7485,75.9555526 2.282,3.552411 -3.2775,5.582321 -0.9973,9.276161 12.3025,19.930041 40.4324,30.087491 63.1476,28.585351 z"
+       id="path2989-3-23-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cszczzccscczcsssc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1192.6842"
+       y="34.341908"
+       id="text4142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4144"
+         x="-1192.6842"
+         y="34.341908" /></text>
+  </g>
+</svg>
